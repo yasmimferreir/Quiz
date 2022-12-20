@@ -38,8 +38,6 @@ Para instalar o Quiz, siga estas etapas:
 Windows: <br>
 git clone `url`.
 
-
-
 ## 📫 Contribuindo para o Projeto Quiz
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com o Quiz, siga estas etapas:
